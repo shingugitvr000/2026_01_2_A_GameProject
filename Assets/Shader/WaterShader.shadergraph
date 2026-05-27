@@ -1468,8 +1468,8 @@
     "m_ObjectId": "113ba1a7389c49a981d29ccc2bd5cdfa",
     "m_Title": "Combining Texture and intersection foam",
     "m_Position": {
-        "x": 150.99986267089845,
-        "y": -1740.0001220703125
+        "x": 151.0,
+        "y": -1740.0
     }
 }
 
@@ -3987,8 +3987,8 @@
     "m_ObjectId": "73ffa83026224772a7421fcfc3040a34",
     "m_Title": "Water Depth Color",
     "m_Position": {
-        "x": -1197.0001220703125,
-        "y": -747.000244140625
+        "x": -1197.0,
+        "y": -747.0
     }
 }
 
@@ -4012,8 +4012,8 @@
     "m_ObjectId": "750cb85198be4e009124051f3001cb09",
     "m_Title": "Dark Foam Voronoi Sample",
     "m_Position": {
-        "x": -611.0000610351563,
-        "y": -2082.000244140625
+        "x": -611.0,
+        "y": -2082.0
     }
 }
 
@@ -5514,8 +5514,8 @@
     "m_ObjectId": "ac5f92535dff4ddea3c3dd1a1c2fc5d6",
     "m_Title": "Main Foram Voronoi Sample",
     "m_Position": {
-        "x": -1255.0001220703125,
-        "y": -1510.000244140625
+        "x": -1255.0,
+        "y": -1510.0
     }
 }
 
@@ -7208,8 +7208,8 @@
     "m_ObjectId": "fa47802172804752bc5785fab45dc48d",
     "m_Title": "Distort UVs Based On Flow Map",
     "m_Position": {
-        "x": -2538.000244140625,
-        "y": -774.0001831054688
+        "x": -2538.0,
+        "y": -774.0
     }
 }
 

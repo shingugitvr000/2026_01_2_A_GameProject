@@ -618,8 +618,8 @@
     "m_ObjectId": "0072868f7b574115bb240d8ba61e1693",
     "m_Title": "Calculate word-space position",
     "m_Position": {
-        "x": -1101.0001220703125,
-        "y": -499.0000305175781
+        "x": -1101.0,
+        "y": -499.0
     }
 }
 
@@ -771,8 +771,8 @@
     "m_ObjectId": "09bf52731d0a42da874a87c9d364f672",
     "m_Title": "Calculate Clip-space Positions",
     "m_Position": {
-        "x": -1662.000244140625,
-        "y": 152.0000762939453
+        "x": -1662.0,
+        "y": 152.0
     }
 }
 
@@ -1108,8 +1108,8 @@
     "m_ObjectId": "28bb831ed22a49adbab3367ff91eaee5",
     "m_Title": "Calculate Bounding box",
     "m_Position": {
-        "x": 567.0000610351563,
-        "y": -642.0000610351563
+        "x": 567.0,
+        "y": -642.0
     }
 }
 
@@ -2004,8 +2004,8 @@
     "m_ObjectId": "796e78cdedab49ec93fbf3a0a1619366",
     "m_Title": "Main Texture Sample",
     "m_Position": {
-        "x": 895.0001220703125,
-        "y": 142.0000762939453
+        "x": 895.0,
+        "y": 142.0
     }
 }
 

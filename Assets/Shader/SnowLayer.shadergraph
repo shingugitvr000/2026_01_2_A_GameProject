@@ -1438,8 +1438,8 @@
     "m_ObjectId": "10f569d4715c4a7fad01558ec8c3db77",
     "m_Title": "Snow Color",
     "m_Position": {
-        "x": -1527.0001220703125,
-        "y": -469.0000305175781
+        "x": -1527.0,
+        "y": -469.0
     }
 }
 
@@ -1918,7 +1918,7 @@
     "m_ObjectId": "29c516b7f3094272ad8de9732e85c647",
     "m_Title": "Snow BuildUp (Nosie Calcalation)",
     "m_Position": {
-        "x": -1862.0001220703125,
+        "x": -1862.0,
         "y": 327.0
     }
 }
@@ -3862,7 +3862,7 @@
     "m_Title": "Smoothness Map",
     "m_Position": {
         "x": 355.0,
-        "y": -13.000030517578125
+        "y": -13.0
     }
 }
 
@@ -5371,8 +5371,8 @@
     "m_ObjectId": "af7a35154d71411ab6fe4393db105361",
     "m_Title": "Dot Product Calculation",
     "m_Position": {
-        "x": -2585.000244140625,
-        "y": -114.00001525878906
+        "x": -2585.0,
+        "y": -114.0
     }
 }
 
@@ -6900,8 +6900,8 @@
     "m_ObjectId": "f62fc1019010412ca57451687f5bbd3b",
     "m_Title": "Sample texture + Base Color",
     "m_Position": {
-        "x": 249.99998474121095,
-        "y": -1066.9998779296875
+        "x": 250.0,
+        "y": -1067.0
     }
 }
 
